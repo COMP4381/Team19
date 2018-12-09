@@ -13,7 +13,9 @@ if he dont know name of resturant so will suggest some name of resturant depends
 we use these atomic services  places api ,matrix api ,dirction api and Gps help also
 ## 
 ## SOA Architecture
-![soa](https://user-images.githubusercontent.com/34231700/49031916-f06e4a80-f1b3-11e8-83e6-6a2119c0d0a9.png)
+![soa diagram](https://user-images.githubusercontent.com/44411022/49698719-4233af00-fb7c-11e8-95a7-235132dfa9e7.png)
+
 ##
 ## BPMN 
-![44765820_327462461143330_2110574472879669248_n](https://user-images.githubusercontent.com/34231700/47440933-d35eea00-d7b7-11e8-8aa1-a023f863c11f.png)
+![bpmn 1](https://user-images.githubusercontent.com/44411022/49698728-77d89800-fb7c-11e8-98ce-ea4cd4c4cef1.png)
+
