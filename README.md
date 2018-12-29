@@ -20,11 +20,11 @@ We impelemented our services using the RESTful service development paradigm. Whi
 ## Composite Service Algorithm According to BPMN 2.0.
 ![image](https://user-images.githubusercontent.com/34231700/50542680-edf47b80-0bcb-11e9-8d1e-8ac16427a94f.png)
 ## Applied Technologies.
- # development environment: Eclipse. 
- # programming languages:Java.
- # frameworks and libraries:swagger, spring boot.
- # Google provider.
- # application server:Apach Tomcat.
+ #### development environment: Eclipse. 
+ #### programming languages:Java.
+ #### frameworks and libraries:swagger, spring boot.
+ #### Google provider.
+ #### application server:Apach Tomcat.
  
  ## Service Deployment and Monitoring.
  
