@@ -92,6 +92,7 @@ Method | HTTP request | Description
 
 ## Author
 abed alamleh.
+##
 Muayed Mafarjeh.
 
 ##
