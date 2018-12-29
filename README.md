@@ -44,7 +44,9 @@ We impelemented our services using the RESTful service development paradigm. Whi
  ##
  ### Documentation for API Endpoints.
  ##
- ####CompositeServiceControllerApi
+ #### CompositeServiceControllerApi
+ ![compiste controller](https://user-images.githubusercontent.com/44411022/50542911-346eb980-0b7d-11e9-91c8-ce5694d302e0.png)
+
 
 
 
