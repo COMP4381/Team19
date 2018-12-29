@@ -40,7 +40,11 @@ We impelemented our services using the RESTful service development paradigm. Whi
  ## Inventory: Service layers
  ![src_main](https://user-images.githubusercontent.com/44411022/50542850-6a5f6e00-0b7c-11e9-9bb7-168ca784eecc.png)
  
- 
+ ## APPENDIX
+ ##
+ ### Documentation for API Endpoints.
+ ##
+ ####CompositeServiceControllerApi
 
 
 
