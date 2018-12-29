@@ -86,13 +86,15 @@ Method | HTTP request | Description
 ------------- | ------------- | -------------
 [**getDistanceUsingGET**](DistancesControllerApi.md#getDistanceUsingGET) | **GET** /distance | getDistance
 
+##
 
 
 
+## Author
+abed alamleh.
+Muayed Mafarjeh.
 
-
-
-
+##
 
 ##abstract
 Tourist need to eat in city dont know anything about this city 
