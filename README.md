@@ -28,6 +28,12 @@ We impelemented our services using the RESTful service development paradigm. Whi
  
  ## Service Deployment and Monitoring.
  
+ 
+ 
+ 
+ 
+ ## Design Patterns.
+ 
 
 
 
