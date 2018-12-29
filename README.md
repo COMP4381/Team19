@@ -37,6 +37,10 @@ We impelemented our services using the RESTful service development paradigm. Whi
  ##
  ![design pattren](https://user-images.githubusercontent.com/44411022/50542821-1c963600-0b7b-11e9-91f8-f307b9eee570.png)
  
+ ## Inventory: Service layers
+ ![src_main](https://user-images.githubusercontent.com/44411022/50542850-6a5f6e00-0b7c-11e9-9bb7-168ca784eecc.png)
+ 
+ 
 
 
 
