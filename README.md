@@ -6,6 +6,7 @@ The problem domain is tourism (searching a restaurant to eating), the speicific 
 ## SOA Diagram
 ![soa diagram](https://user-images.githubusercontent.com/44411022/49698719-4233af00-fb7c-11e8-95a7-235132dfa9e7.png)
 
+the three tiers in this 3-tier client server architecturethe is Model View Controller(MVC),the clients users,the services is google places,google distance matrix, Web server,the atomic service is google places,google distance matrix and the composite is Web server.
 
 
 
