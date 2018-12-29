@@ -45,7 +45,21 @@ We impelemented our services using the RESTful service development paradigm. Whi
  ### Documentation for API Endpoints.
  ##
  #### CompositeServiceControllerApi
- ![compiste controller](https://user-images.githubusercontent.com/44411022/50542911-346eb980-0b7d-11e9-91c8-ce5694d302e0.png)
+
+
+All URIs are relative to *https://localhost:8090*
+
+Method | HTTP request | Description
+------------- | ------------- | -------------
+[**findPlaceUsingGET**](CompositeControllerApi.md#findPlaceUsingGET) | **GET** /Composite | findPlace
+
+
+<a name="findPlaceUsingGET"></a>
+# **findPlaceUsingGET**
+> String findPlaceUsingGET(location)
+
+findPlace
+
 
 
 
