@@ -53,11 +53,11 @@ Method | HTTP request | Description
 ------------- | ------------- | -------------
 [**findPlaceUsingGET**](CompositeControllerApi.md#findPlaceUsingGET) | **GET** /Composite | findPlace
 
-
+##
 
 
 ## Atomic Controllers.
-### PatientControllerApi.
+### UserControllerApi.
 
 All URIs are relative to *https://localhost:8090*
 
@@ -67,6 +67,15 @@ Method | HTTP request | Description
 [**finduserByNameUsingGET**](UserControllerApi.md#finduserByNameUsingGET) | **GET** /user/user | finduserByName
 [**getUserUsingGET**](UserControllerApi.md#getUserUsingGET) | **GET** /user | user
 [**getuserByIDUsingGET**](UserControllerApi.md#getuserByIDUsingGET) | **GET** /user/user/{id} | getUserByID
+
+##
+### ResturentControllerApi
+
+All URIs are relative to *https://localhost:8090*
+
+Method | HTTP request | Description
+------------- | ------------- | -------------
+[**getResturentUsingGET**](ResturentControllerApi.md#getResturentUsingGET) | **GET** /resturent | getResturent
 
 
 
