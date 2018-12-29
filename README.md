@@ -54,11 +54,19 @@ Method | HTTP request | Description
 [**findPlaceUsingGET**](CompositeControllerApi.md#findPlaceUsingGET) | **GET** /Composite | findPlace
 
 
-<a name="findPlaceUsingGET"></a>
-# **findPlaceUsingGET**
-> String findPlaceUsingGET(location)
 
-findPlace
+
+## Atomic Controllers.
+### PatientControllerApi.
+
+All URIs are relative to *https://localhost:8090*
+
+Method | HTTP request | Description
+------------- | ------------- | -------------
+[**adduserUsingPOST**](UserControllerApi.md#adduserUsingPOST) | **POST** /user/user | adduser
+[**finduserByNameUsingGET**](UserControllerApi.md#finduserByNameUsingGET) | **GET** /user/user | finduserByName
+[**getUserUsingGET**](UserControllerApi.md#getUserUsingGET) | **GET** /user | user
+[**getuserByIDUsingGET**](UserControllerApi.md#getuserByIDUsingGET) | **GET** /user/user/{id} | getUserByID
 
 
 
