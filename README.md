@@ -8,12 +8,12 @@ The problem domain is tourism (searching a restaurant to eating), the speicific 
 
 the three tiers in this 3-tier client server architecturethe is Model View Controller (MVC) and the clients is users and the services is google places,google distance matrix, Web server and the atomic service is google places,google distance matrix and the composite is Web server.
 
-
+##
 ## BPMN 
 ![untitled diagram](https://user-images.githubusercontent.com/44411022/49698740-ace4ea80-fb7c-11e8-9825-6561692f7431.png)
 
 The compiste service get location from user after that request the location to the google places and the google places return jason respons of nearest restaurant to compiste service after than request user location and restaurant location to distance matrix after
-that return jason respons to the compiste service and compiste service compute and return  the less distance of restaurant.
+that return jason respons to the compiste service and compiste service compute and return  the less distance of restaurant to the user.
 
 
 
