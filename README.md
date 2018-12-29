@@ -77,8 +77,14 @@ Method | HTTP request | Description
 ------------- | ------------- | -------------
 [**getResturentUsingGET**](ResturentControllerApi.md#getResturentUsingGET) | **GET** /resturent | getResturent
 
+##
+#### DistancesControllerApi
 
+All URIs are relative to *https://localhost:8090*
 
+Method | HTTP request | Description
+------------- | ------------- | -------------
+[**getDistanceUsingGET**](DistancesControllerApi.md#getDistanceUsingGET) | **GET** /distance | getDistance
 
 
 
