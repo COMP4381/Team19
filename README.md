@@ -57,7 +57,7 @@ Method | HTTP request | Description
 
 
 ## Atomic Controllers.
-### UserControllerApi.
+#### UserControllerApi.
 
 All URIs are relative to *https://localhost:8090*
 
@@ -69,7 +69,7 @@ Method | HTTP request | Description
 [**getuserByIDUsingGET**](UserControllerApi.md#getuserByIDUsingGET) | **GET** /user/user/{id} | getUserByID
 
 ##
-### ResturentControllerApi
+#### ResturentControllerApi
 
 All URIs are relative to *https://localhost:8090*
 
