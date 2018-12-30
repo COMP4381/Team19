@@ -25,16 +25,11 @@ We impelemented our services using the RESTful service development paradigm. Whi
  ###### frameworks and libraries:swagger, spring boot.
  ###### Google provider.
  ###### application server:Apach Tomcat.
- ##
- ##
+ ## Service Deployment and Monitoring.
+ ## Log file.
  *https://github.com/COMP4381/Team19/blob/master/Logs%20file.csv*
-      
-
- 
- 
- 
- 
- 
+## Conclusion and Discussion.
+the project is not hard but the hard in this project is how to obtain key from google because the key run one time to test because this problem i requested more than 25 key for test the project.
  ## Design Patterns.
  ### Exception Design Patterns.
  ##
@@ -42,6 +37,11 @@ We impelemented our services using the RESTful service development paradigm. Whi
  
  ## Inventory: Service layers
  ![src_main](https://user-images.githubusercontent.com/44411022/50542850-6a5f6e00-0b7c-11e9-9bb7-168ca784eecc.png)
+ ## Service Monitoring.
+ ## google places.
+ 
+ 
+ 
  
  ## APPENDIX
  ##
