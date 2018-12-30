@@ -38,6 +38,8 @@ the project is not hard but the hard in this project is how to obtain key from g
  ## Inventory: Service layers
  ![src_main](https://user-images.githubusercontent.com/44411022/50542850-6a5f6e00-0b7c-11e9-9bb7-168ca784eecc.png)
  # Service Monitoring.
+ the all APIs is 
+ ![all api dashbord](https://user-images.githubusercontent.com/34231700/50551352-d4b10500-0c87-11e9-9bd9-d476c8309a59.PNG)
  ## google places.
  ![api traffic](https://user-images.githubusercontent.com/34231700/50550742-6b78c400-0c7e-11e9-8880-b3795cd3214d.PNG)
 *https://github.com/COMP4381/Team19/blob/master/places%20traffic.csv*
@@ -50,24 +52,15 @@ the project is not hard but the hard in this project is how to obtain key from g
 *https://github.com/COMP4381/Team19/blob/master/matrix%20errors.csv*
 ![matrix latency](https://user-images.githubusercontent.com/34231700/50550856-0a51f000-0c80-11e9-813e-527b20f64453.PNG)
 *https://github.com/COMP4381/Team19/blob/master/matrix%20latency.csv*
- 
- 
  ## APPENDIX
- ##
  ### Documentation for API Endpoints.
- ##
  #### CompositeServiceControllerApi
-
-
 All URIs are relative to *https://localhost:8090*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
 [**findPlaceUsingGET**](CompositeControllerApi.md#findPlaceUsingGET) | **GET** /Composite | findPlace
-
 ##
-
-
 ## Atomic Controllers.
 #### UserControllerApi.
 
@@ -97,32 +90,10 @@ All URIs are relative to *https://localhost:8090*
 Method | HTTP request | Description
 ------------- | ------------- | -------------
 [**getDistanceUsingGET**](DistancesControllerApi.md#getDistanceUsingGET) | **GET** /distance | getDistance
-
-##
-
-
-
+## Documentation for Models.
+Restaurant Model class *https://github.com/COMP4381/Team19/blob/master/Restaurant.md*
+Distance Model class *https://github.com/COMP4381/Team19/blob/master/DistanceModelClass.md*
+User Model class *https://github.com/COMP4381/Team19/blob/master/UserModelClass.md*
 ## Author
 ###### abed alamleh.
 ###### Muayed Mafarjeh.
-
-##
-
-##abstract
-Tourist need to eat in city dont know anything about this city 
-he dont konw where to go to eat  so will use this mobile application 
-to find resturant and how distance should be travel and how take time and something to direcit him to 
-the location of resturant 
-
-1-open this apps
-2-search for resturant or name of restrant he want 
-3- if resturant avalabil then will tell him the distance and time need to arrive and direct him 
-if he dont know name of resturant so will suggest some name of resturant depends his location by using Gps
-we use these atomic services  places api ,matrix api ,dirction api and Gps help also
-## 
-## SOA Architecture
-![soa diagram](https://user-images.githubusercontent.com/44411022/49698719-4233af00-fb7c-11e8-95a7-235132dfa9e7.png)
-
-##
-## BPMN 
-![untitled diagram](https://user-images.githubusercontent.com/44411022/49698740-ace4ea80-fb7c-11e8-9825-6561692f7431.png)
