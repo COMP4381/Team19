@@ -91,9 +91,9 @@ Method | HTTP request | Description
 ------------- | ------------- | -------------
 [**getDistanceUsingGET**](DistancesControllerApi.md#getDistanceUsingGET) | **GET** /distance | getDistance
 ## Documentation for Models.
-# Restaurant Model class *https://github.com/COMP4381/Team19/blob/master/Restaurant.md*.
-# Distance Model class *https://github.com/COMP4381/Team19/blob/master/DistanceModelClass.md*.
-# User Model class *https://github.com/COMP4381/Team19/blob/master/UserModelClass.md*.
+#### Restaurant Model class *https://github.com/COMP4381/Team19/blob/master/Restaurant.md*.
+#### Distance Model class *https://github.com/COMP4381/Team19/blob/master/DistanceModelClass.md*.
+#### User Model class *https://github.com/COMP4381/Team19/blob/master/UserModelClass.md*.
 ## Author
 ###### abed alamleh.
 ###### Muayed Mafarjeh.
