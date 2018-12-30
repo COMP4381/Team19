@@ -45,7 +45,11 @@ the project is not hard but the hard in this project is how to obtain key from g
 *https://github.com/COMP4381/Team19/blob/master/places%20errors.csv*
  ## google distance matrix.
  ![matrix trafic](https://user-images.githubusercontent.com/34231700/50550820-8bf54e00-0c7f-11e9-8342-79f1b25d7833.PNG)
-
+*https://github.com/COMP4381/Team19/blob/master/matrix%20traffic.csv*
+![matrix error](https://user-images.githubusercontent.com/34231700/50550852-fdcd9780-0c7f-11e9-8997-1c5d9bbb862f.PNG)
+*https://github.com/COMP4381/Team19/blob/master/matrix%20errors.csv*
+![matrix latency](https://user-images.githubusercontent.com/34231700/50550856-0a51f000-0c80-11e9-813e-527b20f64453.PNG)
+*https://github.com/COMP4381/Team19/blob/master/matrix%20latency.csv*
  
  
  ## APPENDIX
