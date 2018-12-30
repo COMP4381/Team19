@@ -39,7 +39,11 @@ the project is not hard but the hard in this project is how to obtain key from g
  ![src_main](https://user-images.githubusercontent.com/44411022/50542850-6a5f6e00-0b7c-11e9-9bb7-168ca784eecc.png)
  ## Service Monitoring.
  ## google places.
- 
+ ![api traffic](https://user-images.githubusercontent.com/34231700/50550742-6b78c400-0c7e-11e9-8880-b3795cd3214d.PNG)
+*https://github.com/COMP4381/Team19/blob/master/places%20traffic.csv*
+![api error](https://user-images.githubusercontent.com/34231700/50550758-aaa71500-0c7e-11e9-87a7-d22cdf8b7772.PNG)
+*https://github.com/COMP4381/Team19/blob/master/places%20errors.csv*
+ ## google distance matrix.
  
  
  
